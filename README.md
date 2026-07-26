@@ -59,8 +59,8 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aasrithavalluri30-source&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasrithavalluri30-source&layout=compact&theme=synthwave&hide_border=true" width="35%" />
+<img src="https://github-readme-stats-xi-tan-82.vercel.app/api?username=aasrithavalluri30-source&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-xi-tan-82.vercel.app/api/top-langs/?username=aasrithavalluri30-source&layout=compact&theme=synthwave&hide_border=true" width="35%" />
 
 <br><br>
 
@@ -80,7 +80,7 @@
 <br>
 
 <details>
-<summary><strong>Classic terminal view (assignment-spec ASCII + system info)</strong></summary>
+<summary><strong>Terminal Classic View</strong></summary>
 
 ```text
                  ..                     ............          ............
