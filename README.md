@@ -18,8 +18,8 @@
 aasrithavalluri30-source@github
 --------------------------------
 OS: ............... Windows
-Age: ........... 21 years
-University: ........... Manipal University Jaipur
+Uptime: ........... 21 years
+Education: Manipal University Jaipur 
 Languages: ......... Python (main), C, C++
 Focus: ............. Machine Learning / Deep Learning / GenAI
 Hobbies: ........... Reading, Music
