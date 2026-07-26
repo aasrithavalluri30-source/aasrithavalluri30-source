@@ -66,6 +66,4 @@
 <br><br>
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=aasrithavalluri30-source&theme=algolia&no-frame=true&row=1&column=6" />
-
 </div>
