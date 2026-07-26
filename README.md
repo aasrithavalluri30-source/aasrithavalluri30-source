@@ -46,7 +46,6 @@
 
 <div align="center">
 
-### `aasritha@github ~ $ ./snake.sh`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aasrithavalluri30-source/aasrithavalluri30-source/output/github-contribution-grid-snake-dark.svg" />
@@ -56,19 +55,16 @@
 
 <br><br>
 
-### `aasritha@github ~ $ ./streak.sh`
 
 <img src="https://streak-stats.demolab.com/?user=aasrithavalluri30-source&theme=synthwave&hide_border=true" />
 
 <br><br>
 
-### `aasritha@github ~ $ ./activity.sh`
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aasrithavalluri30-source&theme=synthwave&hide_border=true" />
 
 <br><br>
 
-### `aasritha@github ~ $ ./trophies.sh`
 
 <img src="https://github-profile-trophy.vercel.app/?username=aasrithavalluri30-source&theme=algolia&no-frame=true&row=1&column=6" />
 
