@@ -19,7 +19,7 @@ aasrithavalluri30-source@github
 --------------------------------
 OS: ............... Windows
 Uptime: ........... 21 years
-Education: Manipal University Jaipur 
+Education: ........... Manipal University Jaipur 
 Languages: ......... Python (main), C, C++
 Focus: ............. Machine Learning / Deep Learning / GenAI
 Hobbies: ........... Reading, Music
