@@ -14,6 +14,7 @@
 </table>
 
 <br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -31,9 +32,15 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
+
 <br>
 
 <picture>
@@ -52,12 +59,102 @@
 
 <br><br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=aasrithavalluri30-source&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasrithavalluri30-source&layout=compact&theme=synthwave&hide_border=true" width="35%" />
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=aasrithavalluri30-source&color=39d353&style=flat&label=PROFILE+VIEWS" />
 
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasritha-valluri-ab01a728a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasrithavalluri30@gmail.com)
+
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
+
+<br>
+
+<details>
+<summary><strong>Classic terminal view (assignment-spec ASCII + system info)</strong></summary>
+
+```text
+                 ..                     ............          ............
+                 `.                 .................          ......```````..
+                 ..              .. ..:`  .       .......      ......``````````..
+         ..      ..             .  ........      .. .......  .  .....`````:::::::``.
+         ..      ..     .     ..  .......         ....    ...... ....````:::---:::::`.
+         ..      ..    ..  .`::......              .``      ...... ...```:::--------::`.
+          .      ..    ..  `---:..`.   ..`.     .   ........  ..... ...```::---=====--::`               aasrithavalluri30-source@github
+          ..     ..    ..  `---:...    .```.      .  ..  .``   .. ......```:--===++==--:-`.             --------------------------------
+            ..    .`.  ..  .```...     ......         ..  ..   ..  ......``::-==++**+==---:.            OS: ............... Windows
+             ...   ..   ..   .   .     ....  .    ...  .`. .   .. ........``::-=+*****+=-:-:.           Uptime: ........... 21 years
+         ..    .. ... .  ... .. .. .    ....        .`.... .    .......`..```::-=+****+==-:-:.          Education: ......... Manipal University Jaipur
+         .`.   .. . .  .. .. ..     .    ......      `....  .    .........````:--=+****+=--:-:.         Languages: ......... Python (main), C, C++
+           ..  ....  .     ....      ..    .     ..  .. ..    .  ..........```::-==+++++=--::-`.        Focus: ............. Machine Learning / Deep Learning / GenAI
+            .  .. ..  .    . ..   .    .          .. ..  ..   .  .. .. .....```::--======--::::`        Hobbies: ........... Reading, Music
+            .   .. ...     .  .    ..   ..        .. ..  .. .`   .. .  ......```::--=====--:::::.       Status: ............ Building cool things
+            ..   ... ...   .   ..   .    .    ..   . .. ..  .`   .. .. ......```::---===---::``:`       Contact: ........... aasrithavalluri30@gmail.com
+             ...   .. ...   ... ... ...        .    ..     .   ..    .......````::----=---:::````       --------------------------------
+               ..   ...     .`.   ... ...     ..   ....   ..  ..     ..`.````:::::--------:::````.
+       ..        ..   ...    .`.    .. ...  ...  .......... ..     ...``:::--------------::::```:.
+       ..    ..   ...  ``.   .``     ..  .  .  ........... ..     .....``::-----------::::::```::`
+              ..    . ..........   .  .  .  .  ..........           ........```::::::::::::::``:-:
+                .. ..............  .  .  .  .  ...... ..           .......      ...``:::::````::--.
+                  ... .`:`..``...  .  .     .  ......              ...`````.        ..``:``````:::`
+      ..          .`. `-*=`.-=`..  .  ..    .  ......               ..`:::`...        .`````......`.
+      ..    ..  ...`..-***=:=+:... ... ..  ..  . ....              ..`::--:`...       ..````.  ..``
+              ..`..`.`+*+**-=+`...   .  .. ..  .. .....           ..`:=++==`...       .`::`.....``.
+            .. ....`.`=-::=-:-. .. .     ..  ..  ........         .`:=*scc+:...      .`--:..`:```.
+            ..    .........`.....     .   ..  ..   .............  ..`-=***=:`..`.    .:=+:`-=-:`..
+                 . ..............  ..  ..  ..   .   .........`````...`::-::``:::`.   .`=*--*c*=`..
+                .     ....          ...  .   ..   .   .. ...```:---:::::::::---:`..  ..:++=+**=`.
+       .`     .     .  `:.   ..    .  ..  .   ..       .  ..```::-==++====-====-:`..  .`-*=::::.
+                  ..  .``.    ...      .  .           ..   ...```:-=++*+++++++--:`..   .:=+-``:.
+                 ..   ..    .   ..     .  .   .         ..   ...```:-==+++====-:`...   .`-+=::-.
+          ..   ..   ..          ..     .  .              ..   ...````::--===--::`..     .`-+=::`
+          `.  .   ..            ..    ..  .       .        ..  ....`.``:::---::`..   .. .`:+*=:`
+                  .        ..   ..    ...     .     .       ..   ......``:::::``.  ..`....`-+=-`
+                  .           .  ..   ...      .     .        .  .......```:::`.   ....   ..`::`
+                 .`      .    ..  ..  ...  .     .     .    .    . .......``:::`            .``
+                 .`.    ..    .   ..  ....  .     ..    .    .  .. ..  ...```:::.        ...``.
+                        ..    .   ..   ...   .      .           .. ..  ....``::::`.     .`````
+                         .        ..    ...   ..     .   .       .  .   ...``:::::``.``.`::``.
+                                 .`:.   .....  .     .. ..   .   .       ...```::::::::`:-::.
+                                 ....     ....           .   .   .        ....`````....`:`:`
+                      ..          ...      ......        .   .    .          ........ ...``.
+                    ....          ...       ......      ..                      ..`:`......
+                    ....          ....         ......    .                 ..  ..`:::````.
+                    ....   ....    ...           ......       .                  ......``
+                    . ..   ....   .....              ....      .. ..                  .`
+                  ..  ..   ....   .. ..   .             ...         .         ..```...`.
+                `.    ..   ....    .. ..   .                ..       .      ..`:---:```
+                ..    ..   `....     .  .  ..                  ...     .    ..``:::```.
+                      ..  .`...       . ..  .    .                ...         ......`.
+                      ..  .`...    .  .. .   .   ..                 ..          .....
+                       . .`...     .  ....    .  .
+                      . .`...   .  .  .. .    .  .               .
+                     . .`...    .  .   ..        ..             ..
+                   ...``...    .   .    ..       ..             ..
+                 ....``....  ..       ...`.      ..            ..
+               ..``````.    ..         ..`:.  .   .            ..
+              ..``:```.     .      .    ....   .              ..
+            .......`.       .       .    . .   ..           . ..
+          .....  ..      ....            .. .   .          . ...
+       ...     ..        `:.      .   .   .     .`.        . ....
+             .`.   .     ..     ..    .   ..     ``   ..  .  ..  .
+             ...  .     .      .     .     .      ..  ..     ..   .
+       .`.                    .     .       .      .  ..    ...    .
+        `.                                   .   .  . ..    ...     ...
+              .                 .             .     .. .     ..
+                       ..          ...        .      .. .     ..
+                           .   .   .`.          .     ....     .  .             ..
+                                                 `.    `` .     ..  .    ..
+                                                       ...       ..
+```
+
+</details>
