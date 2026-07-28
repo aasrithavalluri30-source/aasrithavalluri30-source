@@ -51,7 +51,7 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=aasrithavalluri30-source&theme=synthwave&hide_border=true&v=2" />
+<img src="https://streak-stats.demolab.com/?user=aasrithavalluri30-source&theme=synthwave&hide_border=true&v=3" />
 
 <br><br>
 
